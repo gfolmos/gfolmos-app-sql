@@ -12,6 +12,17 @@ Sistema de Alertas Inteligentes: Notificaciones visuales en tiempo real sobre el
 
 Análisis del Efecto Látigo: Herramienta conceptual integrada para evaluar la amplificación de la demanda a lo largo de los niveles de la cadena de suministro.
 
+## 🏗️ Estructura del Proyecto
+El repositorio cuenta con una distribución modular que separa el código de la interfaz de la lógica de negocio, las simulaciones matemáticas y el análisis en cuadernos de ciencia de datos:Plaintext.
+
+├── images/
+│   ├── img_planta.png                   # Identidad visual de la planta manufacturera
+│   └── logo_verde.png                   # Logotipo corporativo para el panel lateral
+├── app.py                               # Orquestador e interfaz principal de Streamlit
+├── inventario.csv                       # Datos del inventario actual de la planta y sus proveedores
+├── estructura_upc.csv                   # Set de datos con de las estructura de productos 
+└── requirements.txt                     # Dependencias empaquetadas del entorno de ejecución
+
 ## 🛠️ Tecnologías Principales
 Python (Lenguaje base)
 
