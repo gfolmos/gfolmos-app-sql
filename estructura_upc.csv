@@ -1,0 +1,10 @@
+upc,sku,descripcion,cantidad
+upc-001,SEM-RFM-301,Modulo Transceptor LoRa 868/915MHz,3
+upc-001,SEM-MCU-002,Microcontrolador Wi-Fi / BLE Dual-Core,7
+upc-001,SEM-FET-102,MOSFET P-Channel 30V 12A SO-8,8
+upc-001,SEM-MCU-001,Microcontrolador ARM Cortex-M4 32-bit,5
+upc-002,SEM-MCU-001,Microcontrolador ARM Cortex-M4 32-bit,2
+upc-002,SEM-MEM-201,Memoria Flash SPI 64Mb 104MHz,5
+upc-002,SEM-SEN-401,Sensor Digital de Temperatura y Humedad I2C,1
+upc-002,SEM-MCU-002,Microcontrolador Wi-Fi / BLE Dual-Core,10
+upc-002,SEM-FET-101,MOSFET N-Channel 60V 30A TO-220,6
