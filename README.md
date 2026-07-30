@@ -1,3 +1,4 @@
+Autor: Gerardo Figueroa Fecha: 29/07/26
 # 📦 SQL Simulador MRP e Inventario - Efecto Látigo
 Una aplicación web interactiva desarrollada con Streamlit y Supabase (PostgreSQL) diseñada para simular la Planificación de Requerimientos de Materiales (MRP), analizar la estructura de productos (BOM) y estimar el impacto del efecto látigo (Bullwhip Effect) en la cadena de suministro.
 
@@ -15,6 +16,8 @@ Análisis del Efecto Látigo: Herramienta conceptual integrada para evaluar la a
 ## 🏗️ Estructura del Proyecto
 El repositorio cuenta con una distribución modular que separa el código de la interfaz de la lógica de negocio, las simulaciones matemáticas y el análisis en cuadernos de ciencia de datos:Plaintext.
 
+```text
+.
 ├── images/
 │   ├── img_planta.png                   # Identidad visual de la planta manufacturera
 │   └── logo_verde.png                   # Logotipo corporativo para el panel lateral
@@ -22,6 +25,7 @@ El repositorio cuenta con una distribución modular que separa el código de la 
 ├── inventario.csv                       # Datos del inventario actual de la planta y sus proveedores
 ├── estructura_upc.csv                   # Set de datos con de las estructura de productos 
 └── requirements.txt                     # Dependencias empaquetadas del entorno de ejecución
+´´´´
 
 ## 🛠️ Tecnologías Principales
 Python (Lenguaje base)
